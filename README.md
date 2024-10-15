@@ -5,7 +5,7 @@ This repository contains python code implementation of the paper "USV-AUV Collab
 
 Plese feel free to contact [@360ZMEM](<gwxie360@outlook.com>) if you encounter issues on this project.
 
-![Snipaste_2024-10-15_10-26-38](C:\Users\360MEMZ\Downloads\USV-AUV-colab\README.assets\Snipaste_2024-10-15_10-26-38.png)
+![Snipaste_2024-10-15_10-26-38](README.assets/Snipaste_2024-10-15_10-26-38.png)
 
 # Get Started
 
