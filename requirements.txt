@@ -2,3 +2,4 @@ matplotlib
 torch
 numpy
 pickle
+scipy
