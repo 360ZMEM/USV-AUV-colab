@@ -3,7 +3,7 @@
 
 This repository contains python code implementation of the paper "USV-AUV Collaboration Framework for Underwater tasks under Extreme Sea Conditions". 
 
-Plese feel free to contact [@2870325142](mailto:xjzh23@mails.tsinghua.edu.cn) and [@360ZMEM](mailto:gwxie360@outlook.com) if you encounter issues on this project.
+Plese feel free to contact [@360ZMEM](mailto:gwxie360@outlook.com)(Guanwen Xie) if you encounter issues on this project.
 
 ![Snipaste_2024-10-15_10-26-38](README.assets/Snipaste_2024-10-15_10-26-38.png)
 
