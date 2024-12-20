@@ -1,6 +1,4 @@
-# USV-AUV-colab
-
-[ICASSP 2025]
+# [ICASSP 2025] USV-AUV-colab
 
 [![arXiv](https://img.shields.io/badge/arXiv-2409.02444-b31b1b.svg)](https://arxiv.org/abs/2409.02444)  [![WebSite](https://img.shields.io/badge/PDF-Supp_Material-77DDFF.svg)](https://github.com/360ZMEM/USV-AUV-colab/blob/main/paper/SUPP.pdf) [![WebSite](https://img.shields.io/github/last-commit/360ZMEM/USV-AUV-Colab?color=green)](https://360zmem.github.io/USV-AUV-Colab)
 
