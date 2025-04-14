@@ -6,7 +6,6 @@ import time
 def constrain(val, min_val, max_val):
     return min(max_val, max(min_val, val))
 
-
 # Tidewave Class
 class TideWave:
     def __init__(self, H, X_max, Y_max, T_max) -> None:
