@@ -56,11 +56,15 @@ python fig_draw_example/draw_tracking_error.py #fig4b
 If you find it useful for your work please cite:
 
 ```bibtex
-@article{xu2024extreme,
-      title={USV-AUV Collaboration Framework for Underwater tasks under Extreme Sea Conditions},
-      author={Xu, Jingzehua and Xie, Guanwen and Wang, Xinqi and Ding, Yimian and Zhang, Shuai},
-      journal={arXiv preprint arXiv:2409.02444},
-      year={2024}
-    }
+@INPROCEEDINGS{10888444,
+  author={Xu, Jingzehua and Xie, Guanwen and Wang, Xinqi and Ding, Yimian and Zhang, Shuai},
+  booktitle={ICASSP 2025 - 2025 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)}, 
+  title={USV-AUV Collaboration Framework for Underwater Tasks under Extreme Sea Conditions}, 
+  year={2025},
+  volume={},
+  number={},
+  pages={1-5},
+  keywords={Training;Codes;Collaboration;Data collection;Signal processing;Robustness;Path planning;Speech processing;Optimization;Surface treatment;Autonomous underwater vehicle;Unmanned surface vehicle;Fisher information matrix;Reinforcement learning;Extreme sea conditions;Underwater tasks},
+  doi={10.1109/ICASSP49660.2025.10888444}}
 ```
 
