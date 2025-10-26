@@ -1,6 +1,6 @@
 # [ICASSP 2025] USV-AUV-colab
 
-[![arXiv](https://img.shields.io/badge/arXiv-2409.02444-b31b1b.svg)](https://arxiv.org/abs/2409.02444)  [![WebSite](https://img.shields.io/badge/PDF-Supp_Material-77DDFF.svg)](https://github.com/360ZMEM/USV-AUV-colab/blob/main/paper/SUPP.pdf) [![WebSite](https://img.shields.io/github/last-commit/360ZMEM/USV-AUV-Colab?color=green)](https://360zmem.github.io/USV-AUV-Colab)
+[![arXiv](https://img.shields.io/badge/arXiv-2409.02424-b31b1b.svg)](https://arxiv.org/abs/2409.02444)  [![WebSite](https://img.shields.io/badge/PDF-Supp_Material-77DDFF.svg)](https://github.com/360ZMEM/USV-AUV-colab/blob/main/paper/SUPP.pdf) [![WebSite](https://img.shields.io/github/last-commit/360ZMEM/USV-AUV-Colab?color=green)](https://360zmem.github.io/USV-AUV-Colab)
 
 This repository contains python code implementation of the paper "USV-AUV Collaboration Framework for Underwater tasks under Extreme Sea Conditions". 
 
@@ -68,3 +68,6 @@ If you find it useful for your work please cite:
   doi={10.1109/ICASSP49660.2025.10888444}}
 ```
 
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=360ZMEM/USV-AUV-colab&type=date&legend=top-left)](https://www.star-history.com/#360ZMEM/USV-AUV-colab&type=date&legend=top-left)
